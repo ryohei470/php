@@ -1,4 +1,6 @@
 <?php
+ini_set('display_errors', 1);
+error_reporting(E_ALL);
 
 $cities = [
   [
@@ -37,3 +39,7 @@ $cities = [
     'img' => 'america.jpg'
   ]
 ];
+
+echo ('<pre>');
+var_dump($cities);
+echo ('</pre>');

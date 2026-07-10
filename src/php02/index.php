@@ -21,15 +21,15 @@
     </header>
     <main>
         <div class="search-form__content">
-            <h2class="search-form__content-title"> 日本と世界の時間を比較
-                </h2>
+            <h2 class="search-form__content-title"> 日本と世界の時間を比較
+            </h2>
 
-                <label>
-                    <input type="radio" name="country" value="asia">アジア
-                </label>
+            <label>
+                <input type="radio" name="country" value="asia">アジア
+            </label>
 
-                <lavel>
-                    <input tupe="radio" nmae="country" value="europe">ヨーロッパ
+            <label>
+                <input type="radio" nmae="country" value="europe">ヨーロッパ
                 </lavel>
         </div>
         <form class="search-form" action="result.php" method="get">
