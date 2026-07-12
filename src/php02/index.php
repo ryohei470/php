@@ -29,8 +29,8 @@
             </label>
 
             <label>
-                <input type="radio" nmae="country" value="europe">ヨーロッパ
-                </lavel>
+                <input type="radio" name="country" value="europe">ヨーロッパ
+            </label>
         </div>
         <form class="search-form" action="result.php" method="get">
             <div class="search-form__item">
