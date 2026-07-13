@@ -1,3 +1,8 @@
+<?php
+
+require_once('functions/search_city_time.php');
+?>
+
 <!DOCTYPE html>
 <html lang="ja">
 

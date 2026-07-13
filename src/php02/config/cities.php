@@ -40,7 +40,3 @@ $cities = [
         'img' => 'america.jpg'
     ]
 ];
-
-echo ('<pre>');
-var_dump($cities);
-echo ('</pre>');
